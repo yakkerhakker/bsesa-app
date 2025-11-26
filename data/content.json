@@ -1,0 +1,37 @@
+{
+  "about": "BSESA provides opportunities in sports and exercise science, helping students achieve excellence.",
+  "courses": [
+    {
+      "title": "Sports Science",
+      "description": "Learn fundamentals of sports science.",
+      "image": "assets/placeholder-course1.png"
+    },
+    {
+      "title": "Fitness Coaching",
+      "description": "Become a professional fitness coach.",
+      "image": "assets/placeholder-course2.png"
+    },
+    {
+      "title": "Nutrition",
+      "description": "Optimize athletic performance.",
+      "image": "assets/placeholder-course3.png"
+    }
+  ],
+  "team": [
+    {
+      "name": "Zac Boukelia",
+      "role": "Founder",
+      "image": "assets/zac-boukelia.png"
+    },
+    {
+      "name": "Issam Bellem",
+      "role": "Co-Founder",
+      "image": ""
+    }
+  ],
+  "contact": {
+    "email": "info@bsesac.co.uk",
+    "phone": "0044 7988 817717",
+    "address": "20 Main Street, Auchinleck"
+  }
+}

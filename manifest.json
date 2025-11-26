@@ -1,0 +1,41 @@
+{
+  "short_name": "BSESA",
+  "name": "Brittania Sport Exercise Science Academy",
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#ee0909",
+  "background_color": "#1118c6",
+  "description": "BSESA is an app that helps people find sport science opportunities",
+  "icons": [
+    {
+      "src": "assets/android/android-launchericon-48-48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/android/android-launchericon-72-72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/android/android-launchericon-96-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/android/android-launchericon-144-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/android/android-launchericon-192-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/android/android-launchericon-512-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
